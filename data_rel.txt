@@ -1,5 +1,5 @@
 {
-	"IT_Management_Strategy1": [
+	"IT_Management_Strategy": [
         ["EDA", "GCP(E) 생채프엔 (무생채)\nMB\nCQRS", ""],
         ["EA", "A RM SP", "성과평가모델 조인업 시스템"],
         ["ISP", "환현정목통\n경정법 업정벤차이 수 개업정데보 이총효\n사실규정 필시중 사기 대규 클", ""],
