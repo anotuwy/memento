@@ -1,0 +1,125 @@
+{
+	"IT_Management_Strategy": [
+        ["EDA", "GCP(E) 생채프엔 (무생채)\nMB\nCQRS", ""],
+        ["EA", "A RM SP", "성과평가모델 조인업 시스템"],
+        ["ISP", "환현정목통\n경정법 업정벤차이 수 개업정데보 이총효\n사실규정 필시중 사기 대규 클", ""],
+        ["ISMP", "착수요정이\n", "EA > ISP > ISMP"],
+        ["SEM", "가원성", ""],
+        ["economic_evaluation_model", "CBA 회비내순투\nROV 이블몬\nMCA 재기비리", "경제성평가기법"],
+        ["IT_ROI_investment_performance_evaluation_model", "평시측분 전중후 준수종 B NRP", "투자성과평가모델\n"],
+        ["BSC", "재고내학\nCSF\nKPI", ""],
+        ["IT_BSC", "기사운미", "정보기술균형성과표"],
+        ["OKR", "집정추도 컴스원", "상향 정성/정량 수평 목표 평가연동금지 분기"],
+        ["BPR", "프기인", "Zero-Based Thinking\n단기혁신\nBA"],
+        ["PI", "정목분재검", ""],
+        ["Data_Mining", "선전변모평시\n탐예 연연군(연산군) 의회신분", "지지도, 신뢰도, 향상도"],
+        ["Process_Mining", "도적향", ""],
+	    ["PEST", "경정사기", ""],
+        ["STP", "경개사구\n차비집\n속사상경\nR STP MM I C", ""],
+        ["MECE_LISS", "초핵해", ""],
+        ["TAM_SAM_SOM", "전관수탐삼솜", ""],
+        ["FastFallower_FirstMover_ParallelMover", "", ""],
+        ["Customer_Journey_Map", "인분도출\n사도분 페감 단접 문기\n시각화, 타임라인, touch point, pain point", ""],
+	    ["Business_Model_Canvas", "전생\n고가채관수\n활자파비", ""],
+	    ["Value_Driver_Tree", "작가도전\nMC\n수분도확전", "VDT"],
+	    ["Value_Chain", "프서마\n내생외마서\n기인기조", "Primary Activity\n\nSupportive Activity\nFirm Infra/HR Mng/Tech Dev/Procurement\n\nMargin"],
+	    ["ERP", "빅기사", "XRP\nOLAP"],
+	    ["Composable_ERP", "유컴통오이데보마\nMSA, SOA", ""],
+	    ["SCM", "계실관(통) PEI\n구판생물품\n입검적보 피포검출\n채인트 알데이엑", "Bullwhip Effect\n->CPFR\n->SCM2.0\n\nJIT, RTE"],
+	    ["Gold_Plating", "제분개", ""],
+	    ["Scope_Creep", "범의관\n프의명변", ""],
+	    ["Bullwhip_Effect", "", ""],
+	    ["SuppplyChain_Attack", "", "공급망 공격"],
+	    ["CPFR", "QR\nVMI\nCRP\nECR", "-협력적 예측/보충 시스템(Collaborative Planning Forecasting and Replenishment)\n-협업 강조\n-신속대응(QR, Quick Response)\n-공급자 주도형 재고 관리 (VMI, Vendor Managed Inventory)\n-연속 보충 프로그램 (CRP, Continuous Replenishment Program)\n-효율적 소비자 대응(ECR, Efficient Consumer Response)"],
+	    ["Safety_Stock", "", "안전재고"],
+	    ["Optimal_Inventory_Level", "", "적정재고"],
+	    ["MES", "", "생산관리시스템\nManufacturing Execution System"],
+    	["MOM", "", "Message Oriented Middleware\n비동기통신, 신뢰성, 확장성, 이벤트기반 아키텍처\n아파치 Kafka, Rabbit MQ, IBM MQ, Active MQ"],
+    	["OpenAPI", "", "RestAPI"],
+	    ["PDCA", "", ""],
+    	["SLM", "", ""],
+	    ["SLA", "", ""],
+	    ["SoW", "", ""],
+	    ["MTTF_MTBF_MTTR", "", ""],
+	    ["ITIL4", "", ""],
+	    ["SVS", "", ""],
+	    ["SVC", "", ""],
+	    ["ISO_22301", "계실모유(PDCS)\n조리계시운수개", ""],
+        ["BCM_BCP", "재대모유\n계분전설모유\n유적절품", ""],
+        ["DRP", "재복훈 구절 시업연 이시평", "재해판단/선포/전파\n스크립트수행/DR센터이동\nDRS/업무복구절차 가동\n복구검증\n재해복구보고/서비스개시\n종료선언"],
+        ["DRS", "미핫웜콜\n상공외독\n분재시운", ""],
+	    ["DRaaS", "", ""],
+	    ["RTO_RPO", "", ""],
+	    ["IT_Governance", "", "ISO_38500"],
+	    ["ESG", "", "ISO 14000"],
+	    ["Lean", "", ""],
+	    ["MVP", "", ""],
+	    ["SOS_Lab", "", "6단계"],
+	    ["Civic_Hacking", "", "Life Hacking\nGTD"],
+	    ["Ambient_Commerce", "", ""],
+	    ["Ambient_Invisible_Intelligence", "", ""],
+	    ["Prop_Tech", "", ""],
+    	["Able_Tech", "", ""],
+    	["Climate_Tech", "", ""],
+	    ["Deep_Tech", "", ""],
+	    ["LowOrbit_Satellite", "", ""],
+	    ["Sharing_Economy", "", ""],
+	    ["BackCasting", "", ""],
+	    ["Subscription_Economy", "", ""],
+        ["Digital_Cartel", "", ""],
+	    ["Sevitization", "", ""],
+	    ["IP", "", "지식재산권"],
+        ["Technology_Valuation", "", "기술가치평가"],
+        ["ISO_42001_2023", "", ""],
+        ["Digital_Literacy", "", ""]
+    ],
+    "Project_Management": [
+        ["", "", ""]
+    ],
+    "Software_Engineering": [
+        ["", "", ""]
+    ],
+    "Digital_Service": [
+        ["", "", ""]
+    ],
+    "Digital_Network": [
+        ["", "", ""]
+    ],
+    "Security": [
+        ["", "", ""]
+    ],
+	"DataBase": [
+    	["Transaction", "ACID", ""],
+    	["NoSQL", "파리모기산적하\n키카도그순\n그네 도코몽 키다리 카산할배 순애매", ""]
+    ],
+    "CA": [
+        ["CA", "", "Computer Architecture"]
+    ],
+    "OS": [
+        ["OS", "", "Operation System"]
+    ],
+    "Algorithm": [
+        ["", "", ""]
+    ],
+	"AI": [
+		["Fine_Tuning", "선준토 조트개\n정밀 SRG\n파라미터효율 LQP", ""],
+		["Federated_Learning", "수학송배\n교기교", ""],
+		["AIaaS", "편의 경제 확장\nNLP CV 추천 챗봇 음성인식", ""],
+		["Activation_Fucntion", "항경계시탄레리소맥\n단 시렐소 양 탄리맥\n단극(계시), 양극(항리)", "심층신경망 출력여부결정, 비선형변환\n매개연산감소,XOR"],
+		["Hyper_Parameter", "학은할배 가편\n매그랜배", ""],
+		["Gradient_Descent", "확배미\n오 모네 로 SMNARA", ""],
+		["OverFitting", "고분산 저편향\n노독복\n조정교차드", ""],
+		["UnderFitting", "저분산 고편향\nLG\n파확활", ""],
+		["GenalizedFitting", "언편 오분", "적정적합모델"],
+		["DropOut", "단점 오학\n피백하시공", ""],
+		["Multi_Modal", "인인퓨아크\n얼레조", ""],
+		["AGI", "노이컴엑버슈", ""],
+		["Loss_Cost_Objective_Function", "MSE\nMAE\nRMSE\nBCE\nCCE\nSCCE", ""]
+	],
+    "ISO": [
+        ["22301", "BCM", ""],
+	    ["38500", "IT Governance", ""],
+	    ["14000", "ESG", ""],
+	    ["42001", "AI Management System", "ISO 42001:2023"]
+    ]
+}
