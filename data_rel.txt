@@ -1,5 +1,5 @@
 {
-	"IT_Management_Strategy1": [
+	"IT_Management_Strategy": [
         ["EDA", "GCP(E) 생채프엔 (무생채)\nMB\nCQRS", ""],
         ["EA", "A RM SP", "성과평가모델 조인업 시스템"],
         ["ISP", "환현정목통\n경정법 업정벤차이 수 개업정데보 이총효\n사실규정 필시중 사기 대규 클", ""],
@@ -28,11 +28,10 @@
 	    ["SCM", "계실관(통) PEI\n구판생물품\n입검적보 피포검출\n채인트 알데이엑", "Bullwhip Effect\n->CPFR\n->SCM2.0\n\nJIT, RTE"],
 	    ["Gold_Plating", "제분개", ""],
 	    ["Scope_Creep", "범의관\n프의명변", ""],
-	    ["Bullwhip_Effect", "", ""],
+	    ["Bullwhip_Effect_CPFR_SCM2", "", ""],
 	    ["SuppplyChain_Attack", "", "공급망 공격"],
 	    ["CPFR", "QR\nVMI\nCRP\nECR", "-협력적 예측/보충 시스템(Collaborative Planning Forecasting and Replenishment)\n-협업 강조\n-신속대응(QR, Quick Response)\n-공급자 주도형 재고 관리 (VMI, Vendor Managed Inventory)\n-연속 보충 프로그램 (CRP, Continuous Replenishment Program)\n-효율적 소비자 대응(ECR, Efficient Consumer Response)"],
-	    ["Safety_Stock", "", "안전재고"],
-	    ["Optimal_Inventory_Level", "", "적정재고"],
+	    ["SafetyStock_OptimalStock", "이재고\n주전 정위불", "안전재고\n적정재고"],
 	    ["MES", "", "생산관리시스템\nManufacturing Execution System"],
     	["MOM", "", "Message Oriented Middleware\n비동기통신, 신뢰성, 확장성, 이벤트기반 아키텍처\n아파치 Kafka, Rabbit MQ, IBM MQ, Active MQ"],
     	["OpenAPI", "", "RestAPI"],
