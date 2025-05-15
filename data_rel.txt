@@ -77,7 +77,7 @@
 	    ["Subscription_Economy", "", ""],
 	    ["BackCasting", "", ""],
         ["Digital_Cartel", "", ""],
-	    ["Sevitization", "", ""],
+	    ["Servitization", "", ""],
 	    ["IP", "", "지식재산권"],
         ["Technology_Valuation", "", "기술가치평가"],
         ["ISO_42001_2023", "", ""],
