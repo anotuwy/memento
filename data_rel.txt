@@ -164,6 +164,7 @@
         ["SBOM", "", "Software Bill of Materials"],
         ["TDD", "요테구리\n빨초테X디", "Design for Testability\n인버심\n니테코배리심\n테스트 커버리지 확보"],
         ["DevOps", "소협통\n정역지사자\n플코빌테 디오모", ""],
+        ["GitOps", "", ""],
         ["SRE", "모리변장문\n사실점자모", "Site Reliability Engineering"],
         ["AIOps", "수분자가", ""],
         ["CD", "롤블카", "무중단 배포 기법"],
