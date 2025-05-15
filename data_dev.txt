@@ -2,7 +2,8 @@
 	"Domain1": [
         ["Topic1", "Keyword1", "Extra1"],
         ["Topic2", "Keyword2", "Extra2"],
-        ["Topic3", "Keyword3", "Extra3"]
+        ["Topic3", "Keyword3", "Extra3"],
+        ["Test_ELF", "Test_ELF2", "Test_ELF3"]
     ],
 	"Domain2": [
 		["Topic4", "Keyword4", "Extra4"],
