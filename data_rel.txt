@@ -63,7 +63,7 @@
 	    ["ESG", "", "ISO 14000"],
 	    ["Lean", "", ""],
 	    ["MVP", "", ""],
-	    ["SOS_Lab", "", "6단계"],
+	    ["SOS_Lab", "조개구실공사", "6단계"],
 	    ["Civic_Hacking", "", "Life Hacking\nGTD"],
 	    ["Ambient_Commerce", "", ""],
 	    ["Ambient_Invisible_Intelligence", "", ""],
